@@ -2,5 +2,5 @@
 # 日程记录
 ## Start 2018-04
 ## Introduction
-[x] Reading
-[ ] Exercise
+- [x] Reading
+- [ ] Exercise
